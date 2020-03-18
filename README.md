@@ -9,7 +9,7 @@
 - datetime
 
 ### URL
-- 'https://www.flight.naver.com'
+- 'https://www.flight.naver.com/flights'
 
 ### Description
 - crawl.py
