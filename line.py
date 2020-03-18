@@ -7,7 +7,7 @@ airline, price, date, link = summary.airline[0], summary.price[0], summary.date[
 
 # Api 및 Token 정보
 API_HOST = 'https://notify-api.line.me'
-headers = {'Authorization': 'Bearer ECbsnz0szY9xYFMJRRETp5z1ACpgo2ZN9XdN2KeqtTx'}
+headers = {'Authorization': 'Bearer -'}
 data = {}
 
 
